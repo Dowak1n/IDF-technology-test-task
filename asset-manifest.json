@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IDF-technology-test-task/static/css/main.a8c8bb44.css",
+    "main.js": "/IDF-technology-test-task/static/js/main.afc172fa.js",
+    "static/js/787.b6b1b53e.chunk.js": "/IDF-technology-test-task/static/js/787.b6b1b53e.chunk.js",
+    "static/media/IDF.svg": "/IDF-technology-test-task/static/media/IDF.a6525af3ec910a4e0d643d65c88e8f9c.svg",
+    "index.html": "/IDF-technology-test-task/index.html",
+    "main.a8c8bb44.css.map": "/IDF-technology-test-task/static/css/main.a8c8bb44.css.map",
+    "main.afc172fa.js.map": "/IDF-technology-test-task/static/js/main.afc172fa.js.map",
+    "787.b6b1b53e.chunk.js.map": "/IDF-technology-test-task/static/js/787.b6b1b53e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8c8bb44.css",
+    "static/js/main.afc172fa.js"
+  ]
+}
