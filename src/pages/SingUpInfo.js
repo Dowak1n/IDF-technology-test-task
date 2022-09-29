@@ -145,7 +145,7 @@ function SingUpInfo() {
             onBlur={(e) => blurHandler(e)}
             type="text"
             name="MobielPhone"
-            placeholder="Mobiel phone"
+            placeholder="Mobile phone"
           />
           {emailDirty && emailError && (
             <div style={{ color: "red" }}>{emailError}</div>
@@ -179,7 +179,7 @@ function SingUpInfo() {
             onBlur={(e) => blurHandler(e)}
             type="password"
             name="RetypePassword"
-            placeholder="Retype password"
+            placeholder="Repeat password"
           />
 
           <input
